@@ -6,6 +6,7 @@ Up-to-date list of all `ResourceFunction` functions - https://resources.wolframc
 ## Functions ##
 
 - **MatrixPartialTrace** - https://resources.wolframcloud.com/FunctionRepository/resources/MatrixPartialTrace/
+  - theoretical background behind the code is summarized in `partial_trace.pdf` generated from `partial_trace.tex`
 - **EvolutionViewFunction** - https://resources.wolframcloud.com/FunctionRepository/resources/EvolutionViewFunction/
 - **GraphicsBrace** - https://resources.wolframcloud.com/FunctionRepository/resources/GraphicsBrace/
 - **DashedTube** - https://resources.wolframcloud.com/FunctionRepository/resources/DashedTube/
