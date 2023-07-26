@@ -14,6 +14,10 @@ Up-to-date list of all `ResourceFunction` functions - https://resources.wolframc
 - **RoundedAnnulus3D** - https://resources.wolframcloud.com/FunctionRepository/resources/RoundedAnnulus3D/
 - **RoundedCuboid** - https://resources.wolframcloud.com/FunctionRepository/resources/RoundedCuboid/
 - **RoundedCylinder** - https://resources.wolframcloud.com/FunctionRepository/resources/RoundedCylinder/
+- **RoundedFrame3D** - https://resources.wolframcloud.com/FunctionRepository/resources/RoundedFrame3D/
+- **CuboidalFlange3D** - https://resources.wolframcloud.com/FunctionRepository/resources/CuboidalFlange3D/
+- **CylindricalFlange3D** - https://resources.wolframcloud.com/FunctionRepository/resources/CylindricalFlange3D/
+- **ExtractGraphicsPrimitives** - https://resources.wolframcloud.com/FunctionRepository/resources/ExtractGraphicsPrimitives/
 
 ## Demonstrations ##
 
